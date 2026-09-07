@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# PHP
+vendor/
+
+# Système
+.DS_Store
+Thumbs.db
